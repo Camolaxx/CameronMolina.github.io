@@ -4,7 +4,7 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Computer Applications
     description: "
-      /resources/svgs/iconie/autodesk-fusion-360-icon.svg
+      "/resources/svgs/iconie/autodesk-fusion-360-icon.svg"
       /resources/svgs/iconie/autodesk-civil-3d-icon.svg
       /resources/svgs/iconie/microsoft-excel-icon.svg
       resources/svgs/iconie/microsoft-word-icon.svg
