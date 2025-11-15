@@ -2,9 +2,8 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: University of Cincinnati, Cincinnati, OH
+  - title: University of Cincinnati, Bachelors of Science, Mechanical Engineering
     date: Aug. 2024 - May 2029
-    title:   Bachelors of Science, Mechanical Engineering
     grade: "**GPA**: `3.946/4.000`"
     description:
       - Founder of UC VEX U Robotics Club
