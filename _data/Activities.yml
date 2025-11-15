@@ -1,13 +1,8 @@
 subject: Activities
-listing-order: 4
+listing-order: 3
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: UC VEX U Robotics Club
+    subtitle: President, Founder, University of Cincinnati
+    description: Founded
+    date: Jan. 2025 - Present
