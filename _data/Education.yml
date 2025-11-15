@@ -4,13 +4,12 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: University of Cincinnati, Cincinnati, OH
     date: Aug. 2024 - May 2029
-  - title: Bachelors of Science, Mechanical Engineering
+    title:   Bachelors of Science, Mechanical Engineering
     grade: "**GPA**: `3.946/4.000`"
     description:
       - Founder of UC VEX U Robotics Club
       - Steel Bridge Competition Team Member
       - American Society of Mechanical Engineers Member
-    date: Aug. 2024 - May 2029
   - title: Brecksville-Broadview Heights High School, Broadview Heights, OH
     grade: "**GPA**: `3.900/4.000`"
     description:
