@@ -12,7 +12,7 @@ linkedin_username: Cameron-Molina
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
-baseurl: /portfolio
+baseurl: /portfolio/
 
 exclude:
   - _posts/
