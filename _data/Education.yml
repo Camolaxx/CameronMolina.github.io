@@ -4,7 +4,7 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: University of Cincinnati, Cincinnati, OH
     Bachelors of Science, Mechanical Engineering
-    grade: **GPA**: '3.946/4.000'
+    grade: "**GPA**: `3.946/4.000`"
     description:
       - Founder of UC VEX U Robotics Club
       - Steel Bridge Competition Team Member
