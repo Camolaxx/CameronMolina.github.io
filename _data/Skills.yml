@@ -10,12 +10,11 @@ contents:
       resources/svgs/iconie/microsoft-word-icon.svg
       resources/svgs/iconie/microsoft-powerpoint-icon.svg
       resources/svgs/iconie/visual-studio-code-icon.svg
-    "
+      "
   - title: Programming Languages
-    description: "
-      resources/svgs/iconie/c.svg
-      resources/svgs/iconie/labview-svgrepo-com.svg
-      resources/svgs/iconie/matlab-svgrepo-com.svg
-      resources/svgs/iconie/python-3.svg
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-    "
+    description: 
+      "resources/svgs/iconie/c.svg"
+      "resources/svgs/iconie/labview-svgrepo-com.svg"
+      "resources/svgs/iconie/matlab-svgrepo-com.svg"
+      "resources/svgs/iconie/python-3.svg"
+      "![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)"
