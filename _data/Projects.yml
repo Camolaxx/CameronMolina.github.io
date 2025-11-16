@@ -1,6 +1,6 @@
 subject: Projects
 listing-order: 4
-icon: "/assets/img/person-gear.svg"
+icon: "/resources/svgs/solid/gears.svg"
 contents:
   - title: 2002 Volvo S60
     description: 
