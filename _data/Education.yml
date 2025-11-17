@@ -3,7 +3,7 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: University of Cincinnati, Cincinnati, OH
-    subtitle: Bachelors of Science, Mechanical Engineering
+    subtitle: __Bachelors of Science, Mechanical Engineering__
     date: Aug. 2024 - May 2029
     grade: "**GPA**: `3.95/4.00`"
     description:
